@@ -10,7 +10,7 @@ http://www.cecill.info/licences/Licence_CeCILL-C_V1-en.html
 
 Please cite the original publications:
 
-Erguvan, O., ...
+Erguvan, O., ... To be published...
 
 Github: https://github.com/sverger/SurfCut
 
