@@ -17,6 +17,7 @@ Github: https://github.com/sverger/SurfCut
 ## Description
 
 SurfCut is an imageJ macro for image analysis, that allows the extraction of a layer of signal from a 3D confocal stack relative to the detected surface of the signal. This can for exemple be used to extract the cell contours of the epidermal layer of cells.
+
 ![Alt text](/surfcut_illustration.png?raw=true)
 The macro has two modes: the first one, called “Calibrate” is to be used in order to manually find the proper settings for the signal layer extraction, but can also be used to process samples manually one by one. The second one called “Batch” can then be used to run batch signal layer extraction on series of equivalent Z-stacks, using appropriate parameters as determined with the “Calibrate” mode.
 
