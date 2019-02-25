@@ -1,0 +1,28 @@
+
+Calibration parameters: SAM_PI_Col-0 --> L1 cell contours
+Radius 3
+Thld 80
+Top 4
+Bottom 5
+Width 0.363
+Height 0.363
+Depth 1
+
+
+Calibration parameters: Hypocotyl_GFP-MBD --> L1 cell contours
+Radius 3
+Thld 15
+Top 10
+Bottom 12
+Width 0.363
+Height 0.363
+Depth 1
+
+Calibration parameters: Hypocotyl_GFP-MBD --> L1 CMTs
+Radius 3
+Thld 15
+Top 1
+Bottom 5
+Width 0.363
+Height 0.363
+Depth 1
