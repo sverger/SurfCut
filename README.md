@@ -12,6 +12,18 @@ http://www.cecill.info/licences/Licence_CeCILL-C_V1-en.html
 
 Github: https://github.com/sverger/SurfCut
 
+# How to cite
+The publication
+> 
+
+The software
+> Verger Stéphane. (2019, April 10). sverger/SurfCut: SurfCut (Version v1.1.0). Zenodo. http://doi.org/10.5281/zenodo.2635737
+
+The data
+> Erguvan Özer, & Verger Stéphane. (2019). Dataset of confocal microscopy stacks from plant samples - ImageJ SurfCut: a user-friendly, high-throughput pipeline for extracting cell contours from 3D confocal stacks [Data set]. Zenodo. http://doi.org/10.5281/zenodo.2577053
+
+
+
 ## Description
 
 SurfCut is an imageJ macro for image analysis, that allows the extraction of a layer of signal from a 3D confocal stack relative to the detected surface of the signal. This can for exemple be used to extract the cell contours of the epidermal layer of cells.
