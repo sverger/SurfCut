@@ -28,6 +28,7 @@ Note that while SurfCut is easy to use, automatized and overall an efficient way
 - Fiji (https://fiji.sc).
 - The "SurfCut.ijm" macro file.
 - Data: 3D confocal stacks in .tif format, in which the top of the stack should also be the top of the sample. Exemple files are available in the /test_File folder as well as on the Zenodo data repository (https://zenodo.org/) under the DOI 10.5281/zenodo.2577053
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2577053.svg)](https://doi.org/10.5281/zenodo.2577053)
 
 ## Install/run:
 1) Download the "SurfCut.ijm" macro file somewhere on your computer (You can put it in the Fiji "macros" folder for exemple)
