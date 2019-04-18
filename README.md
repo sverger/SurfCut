@@ -1,4 +1,4 @@
-# SurfCut
+# SurfCut | bla
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635737.svg)](https://doi.org/10.5281/zenodo.2635737)
 
 File author(s): Stéphane Verger stephane.verger@slu.se
