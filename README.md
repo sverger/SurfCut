@@ -1,6 +1,6 @@
-# SurfCut | ![Alt text](/SnapshotSAM3.tif?raw=true)
+# SurfCut
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635737.svg)](https://doi.org/10.5281/zenodo.2635737)
-
+![Alt text](/SnapshotSAM3.tif?raw=true)
 File author(s): Stéphane Verger stephane.verger@slu.se
 
 Copyright 2019 INRA - CNRS
@@ -9,7 +9,7 @@ Distributed under the Cecill-C License.
 See accompanying file LICENSE.txt or copy at
 http://www.cecill.info/licences/Licence_CeCILL-C_V1-en.html
 
-> Erguvan, O., Louveaux, M., Hamant, O., Verger, S. (2019) ImageJ SurfCut: a user-friendly pipeline for high-throughput extraction of cell contours from 3D image stacks. Under revision. 
+Please cite:> Erguvan, O., Louveaux, M., Hamant, O., Verger, S. (2019) ImageJ SurfCut: a user-friendly pipeline for high-throughput extraction of cell contours from 3D image stacks. Under revision. 
 
 ## Description
 SurfCut is an imageJ macro for image analysis, that allows the extraction of a layer of signal from a 3D confocal stack relative to the detected surface of the signal. This can for exemple be used to extract the cell contours of the epidermal layer of cells.
