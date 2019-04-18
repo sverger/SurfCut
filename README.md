@@ -1,5 +1,5 @@
-# SurfCut
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635737.svg)](https://doi.org/10.5281/zenodo.2635737)
+# SurfCut
 ![Alt text](/SurfCutSnapshotjpg.jpg?raw=true)
 File author(s): Stéphane Verger stephane.verger@slu.se
 
