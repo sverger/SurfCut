@@ -1,6 +1,6 @@
 # SurfCut
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635737.svg)](https://doi.org/10.5281/zenodo.2635737)
-![Alt text](/SurfCutSnapshot.jpg?raw=true)
+![Alt text](/SurfCutSnapshot.jpg)
 File author(s): Stéphane Verger stephane.verger@slu.se
 
 Copyright 2019 INRA - CNRS
