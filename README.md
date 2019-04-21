@@ -20,7 +20,7 @@ The data
 > Erguvan Özer, & Verger Stéphane. (2019). Dataset of confocal microscopy stacks from plant samples - ImageJ SurfCut: a user-friendly, high-throughput pipeline for extracting cell contours from 3D confocal stacks [Data set]. Zenodo. http://doi.org/10.5281/zenodo.2577053
 
 ## Description
-SurfCut is an imageJ macro for image analysis, that allows the extraction of a layer of signal from a 3D confocal stack relative to the detected surface of the signal. This can for exemple be used to extract the cell contours of the epidermal layer of cells.
+SurfCut is an ImageJ macro for image analysis, that allows the extraction of a layer of signal from a 3D confocal stack relative to the detected surface of the signal. This can for example be used to extract the cell contours of the epidermal layer of cells.
 
 ![Alt text](/surfcut_illustration.png?raw=true)
 The macro has two modes: the first one, called “Calibrate” is to be used in order to manually find the proper settings for the signal layer extraction, but can also be used to process samples manually one by one. The second one called “Batch” can then be used to run batch signal layer extraction on series of equivalent Z-stacks, using appropriate parameters as determined with the “Calibrate” mode.
@@ -30,14 +30,14 @@ In this macro the signal layer extraction is done using a succession of classica
 
 Note that while SurfCut is easy to use, automatized and overall an efficient way to obtain signal layer extraction, it is in principle only adequate for sample with a relatively simple geometry.
 
-## Prerequists:
+## Prerequisites:
 - Fiji (https://fiji.sc).
 - The "SurfCut.ijm" macro file.
-- Data: 3D confocal stacks in .tif format, in which the top of the stack should also be the top of the sample. Exemple files are available in the /test_File folder as well as on the Zenodo data repository (https://zenodo.org/) under the DOI 10.5281/zenodo.2577053
+- Data: 3D confocal stacks in .tif format, in which the top of the stack should also be the top of the sample. Example files are available in the /test_File folder as well as on the Zenodo data repository https://doi.org/10.5281/zenodo.2577053
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2577053.svg)](https://doi.org/10.5281/zenodo.2577053)
 
 ## Install/run:
-1) Download the "SurfCut.ijm" macro file somewhere on your computer (You can put it in the Fiji "macros" folder for exemple)
+1) Download the "SurfCut.ijm" macro file somewhere on your computer (You can put it in the Fiji "macros" folder for example)
 2) Start Fiji.
 3) In Fiji, run the macro: Plugins>Macros>Run…, and then select the “SurfCut.ijm” file.
 4) Then follow the instructions step by step. You can also follow the step by step user guide (https://github.com/sverger/SurfCut/SurfCut_UserGuide.pdf
