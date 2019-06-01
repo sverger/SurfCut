@@ -11,7 +11,7 @@ http://www.cecill.info/licences/Licence_CeCILL-C_V1-en.html
 
 # How to cite
 The publication
-> Erguvan, O., Louveaux, M., Hamant, O., Verger, S. (2019) ImageJ SurfCut: a user-friendly pipeline for high-throughput extraction of cell contours from 3D image stacks. Under revision. 
+> Erguvan, O., Louveaux, M., Hamant, O., Verger, S. (2019) ImageJ SurfCut: a user-friendly pipeline for high-throughput extraction of cell contours from 3D image stacks. BMC Biology, 17:38. https://doi.org/10.1186/s12915-019-0657-1 
 
 The software
 > Verger Stéphane. (2019, April 10). sverger/SurfCut: SurfCut (Version v1.1.0). Zenodo. http://doi.org/10.5281/zenodo.2635737
