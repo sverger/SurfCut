@@ -40,7 +40,7 @@ Note that while SurfCut is easy to use, automatized and overall an efficient way
 1) Download the "SurfCut.ijm" macro file somewhere on your computer (You can put it in the Fiji "macros" folder for example)
 2) Start Fiji.
 3) In Fiji, run the macro: Plugins>Macros>Run…, and then select the “SurfCut.ijm” file.
-4) Then follow the instructions step by step. You can also follow the step by step user guide (https://github.com/sverger/SurfCut/SurfCut_UserGuide.pdf
+4) Then follow the instructions step by step. You can also follow the step by step user guide (https://github.com/sverger/SurfCut/blob/master/SurfCut_UserGuide.pdf)
 
 ## Output:
 The macro can output 4 types of files:
