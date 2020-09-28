@@ -1,5 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635737.svg)](https://doi.org/10.5281/zenodo.2635737)
 # SurfCut
+## !!!An new version of SurfCut is available! (Bug fixes and new functions)!!!
 ![Alt text](/SurfCutSnapshotjpg.jpg?raw=true)
 File author(s): Stéphane Verger stephane.verger@slu.se
 
